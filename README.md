@@ -1,4 +1,4 @@
-# 🌍 Organización Tecnológica de Paintec
+# 🌍 PAINTEC
 
 > **"Cutting-edge software development, artificial intelligence, and technological architecture to boost our business lines."**
 
